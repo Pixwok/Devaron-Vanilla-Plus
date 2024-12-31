@@ -25,5 +25,5 @@ Le modpack est basé sur Fabric.
 <<<<<<< HEAD
 - Complementary Shaders (Shader)
 =======
-- Complementary Shaders (Shader)git
+- Complementary Shaders (Shader)
 >>>>>>> dev
