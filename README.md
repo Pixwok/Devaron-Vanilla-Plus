@@ -2,6 +2,7 @@
 Devaron Vanilla plus est un modpack client qui à pour but d'optimiser le jeu côté client et d'ajouter des utilitaire pour améliorer votre expérience en survie.
 
 ## Liste des mods
+Le modpack est basé sur Fabric.
 ### Librairies :
 - Architectury
 - Fabric API
@@ -21,4 +22,8 @@ Devaron Vanilla plus est un modpack client qui à pour but d'optimiser le jeu c�
 - Tweakeroo
 
 ### Shaders :
+<<<<<<< HEAD
 - Complementary Shaders (Shader)
+=======
+- Complementary Shaders (Shader)git
+>>>>>>> dev
