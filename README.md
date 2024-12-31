@@ -22,12 +22,4 @@ Le modpack est basé sur Fabric.
 - Tweakeroo
 
 ### Shaders :
-<<<<<<< HEAD
-<<<<<<< HEAD
 - Complementary Shaders (Shader)
-=======
-- Complementary Shaders (Shader)
->>>>>>> dev
-=======
-- Complementary Shaders (Shader)
->>>>>>> dev
