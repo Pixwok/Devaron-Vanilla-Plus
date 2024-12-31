@@ -22,6 +22,3 @@ Devaron Vanilla plus est un modpack client qui √† pour but d'optimiser le jeu c√
 
 ### Shaders :
 - Complementary Shaders (Shader)
-
-
-
